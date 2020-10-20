@@ -13,10 +13,10 @@
 
 ### Connect with me:
 
-[<img src="https://img.shields.io/badge/jehincastic.dev%20-%23E4405F.svg?&style=for-the-badge&color=e05d44" />][website]
-[<img src="https://img.shields.io/badge/jehincastic%20-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=e05d44" />][twitter]
-[<img src="https://img.shields.io/badge/jehincastic%20-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=e05d44" />][linkedin]
-[<img src="https://img.shields.io/badge/jehincastic%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=e05d44" />][instagram]
+[<img src="https://img.shields.io/badge/jehincastic.dev%20-%23E4405F.svg?&style=for-the-badge&color=blue" />][website]
+[<img src="https://img.shields.io/badge/jehincastic%20-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=blue" />][twitter]
+[<img src="https://img.shields.io/badge/jehincastic%20-%23E4405F.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue" />][linkedin]
+[<img src="https://img.shields.io/badge/jehincastic%20-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=blue" />][instagram]
 
 <br />
 
