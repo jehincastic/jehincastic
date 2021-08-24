@@ -41,7 +41,7 @@
 
 ---
 
-[website]: https://jehincastic.dev
+[website]: https://portfolio-rosy-phi-14.vercel.app
 [twitter]: https://twitter.com/jehincastic
 [instagram]: https://instagram.com/jehincastic
 [linkedin]: https://in.linkedin.com/in/castic-jehin-81a816105
