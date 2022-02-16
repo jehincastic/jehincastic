@@ -8,7 +8,7 @@
 - 📖 I’m currently learning GraphQL & Typescript
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@jehincastic][twitter]
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 📝 [Resume][website]
 
 ### Connect with me:
