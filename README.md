@@ -5,7 +5,7 @@
 
 ## I'm a Full Stack Software Developer!!
 
-- 📖 I’m currently learning GraphQL & Typescript
+- 📖 I’m planning to learn Elixir
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: [@jehincastic][twitter]
 - 🥅 2022 Goals: Contribute more to Open Source projects
