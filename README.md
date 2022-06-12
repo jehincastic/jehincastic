@@ -1,4 +1,4 @@
-### Hi there, I'm [Castic Jehin][website] <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm [Castic Jehin][website]👋
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fjehincastic.vercel.app)](https://jehincastic.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jehincastic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jehincastic)
