@@ -5,7 +5,7 @@
 
 ## I'm a Full Stack Software Developer!!
 
-- 📖 I’m planning to learn Elixir
+- 📖 I’m learning Elixir
 - 📝 [Resume][website]
 
 ### Connect with me:
