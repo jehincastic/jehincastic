@@ -1,6 +1,6 @@
 ### Hi there, I'm [Castic Jehin][website]👋
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fjehincastic.vercel.app)](https://jehincastic.vercel.app)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fjehincastic.vercel.app)](https://jehincastic.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/jehincastic?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=jehincastic)
 
 ## I'm a Full Stack Software Developer!!
@@ -38,7 +38,7 @@
 
 ---
 
-[website]: https://jehincastic.vercel.app
+[website]: https://jehincastic.dev
 [twitter]: https://twitter.com/jehincastic
 [instagram]: https://instagram.com/jehincastic
 [linkedin]: https://in.linkedin.com/in/castic-jehin-81a816105
